@@ -1,0 +1,25 @@
+NOtes
+
+Choose what company you want to scrape
+
+Interface:
+
+prints out sources available to read
+you choose your sources
+it prints out the non poltical articles
+you select the one you want to read by number
+you can exit to exit
+
+
+
+
+Building the gem Steps
+
+    1. imagine your gem
+    2. Start with project strcture
+    3. Start with the entry point
+    4. Stub out the Interface
+    5. start making things real
+    6. discover objects
+    7. program
+

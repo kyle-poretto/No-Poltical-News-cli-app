@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+require_relative '../config/environment'
+
+
+No_Politics_Scraper::CLI.new.call
+
+
