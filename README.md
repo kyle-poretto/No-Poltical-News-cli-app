@@ -1,15 +1,13 @@
-# LinkedInScraper
+# No_Politics_Scraper
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/LinkedIn_Scraper`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to No_Politics_Scraper. You're probably sick as sick of poltiical news as I am. Well here ya go! A CLI gem that will scrape news sources and deliver them to you in a distraction free environment.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'LinkedIn_Scraper'
+gem 'No_Politics_Scraper'
 ```
 
 And then execute:
@@ -18,7 +16,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install LinkedIn_Scraper
+    $ gem install No_Politics_Scraper
 
 ## Usage
 
@@ -32,7 +30,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/LinkedIn_Scraper.
+Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/No_Politics_Scraper.
 
 ## License
 
